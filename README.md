@@ -39,4 +39,7 @@ conclusion_search
 Linear search is better for small collection of unsorted array where binary search is better for large array and can only search sorted array
 Linear search go through every element in the array and compare it with the target number, but binary search ignore most of the element in the array to increase the efficiency by (1/2)^k * 100 %
 
+conclusion
 
+The relatively better way to search a relatively small unsorted array is search with linear search, binary search is faster than linear search but it take a relatively long time to sort and then search
+When len(array) (= n) get large to a point where 2(2log₂(n) + log₂(n+1)-1) < n, there’s so much element in the array that it is more efficient to merge sort and binary search the element
