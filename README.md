@@ -1,5 +1,4 @@
 # sort-search
-graph - desmos.com/calculator/kewdl8efms
 google slide - https://docs.google.com/presentation/d/1_jM_78Ax_c2mM-_Yo90Hxjd8nSpwgGDRaqjESs4YUu8/edit#slide=id.g22aa0feea53_0_85
 
 bubble_sort
